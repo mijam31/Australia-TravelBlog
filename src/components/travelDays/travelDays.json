@@ -17,8 +17,8 @@
     "title": "Nytårsaften i Sydney",
     "part1": "Vi vågnede op til vores første hele dag i Australien, stadig lidt præget af jetlag. Dagen startede stille og roligt med en afslappende gåtur, hvor vi for første gang stødte på nogle af Australiens vilde dyr. Kakaduer fløj over os, og det var en påmindelse om, at vi nu befandt os på den anden side af jorden.",
     "part2": "Om aftenen gik vi mod Woolwich for at opleve det legendariske nytårsfyrværkeri over Sydney Harbour. Det var en magisk oplevelse, hvor hele himlen blev oplyst i alle farver. Et fantastisk syn, der markerede begyndelsen på et nyt år, og en aften vi sent vil glemme.",
-    "image1": "src/assets/pictures/dag 0-7/tappas_2.jpg",
-    "image3": "src/assets/pictures/dag 0-7/hygge_2.jpg",
+    "image1": "public/pictures/dag 0-7/tappas_2.jpg",
+    "image3": "public/pictures/dag 0-7/hygge_2.jpg",
     "video1": "public/videos/fyverkeri_2.mp4"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Første dag i det nye år",
     "part1": "Vi startede det nye år med en gåtur rundt i Hunters Hill, hvor vi tog den rolige atmosfære ind. Morgenen var frisk, og vi nød at opleve en ny side af Sydney væk fra storbyens travlhed.",
     "part2": "Senere på dagen tog vi videre til Grace Hotel i centrum. Efter check-in gik vi en tur gennem byens pulserende gader og sluttede aftenen af på en hyggelig taco-restaurant – en perfekt start på det nye år.",
-    "image1": "src/assets/pictures/dag 0-7/bade_3.jpg",
+    "image1": "public/pictures/dag 0-7/bade_3.jpg",
     "image2": "src/assets/pictures/dag 0-7/gåtur_3.jpg",
     "image3": "src/assets/pictures/dag 0-7/taco_3.jpg"
   },
