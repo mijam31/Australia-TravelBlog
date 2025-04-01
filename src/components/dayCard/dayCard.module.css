@@ -1,0 +1,309 @@
+.dayCard {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 900px;
+  width: 100%;
+}
+
+.dayCard h2 {
+  font-family: "Inria", serif;
+  font-weight: 500;
+  font-size: 30px;
+  position: absolute;
+  top: 7%;
+  left: 45%;
+}
+
+.img1,
+.img2,
+.img3 {
+  object-fit: cover;
+  object-position: center;
+  border-radius: 1000px;
+  position: absolute;
+}
+
+.img1 {
+  width: 400px;
+  height: 400px;
+  z-index: 10;
+  top: 10%;
+  right: 55%;
+}
+
+.img2 {
+  width: 200px;
+  height: 200px;
+  z-index: 100;
+  top: 42%;
+  left: 37%;
+}
+
+.img3 {
+  width: 350px;
+  height: 350px;
+  top: 50%;
+  left: 46%;
+}
+
+.text1,
+.text2 {
+  font-family: "Inter", serif;
+  position: absolute;
+}
+
+.text1 {
+  top: 18%;
+  font-size: 18px;
+  left: 50%;
+  width: 26%;
+}
+
+.text2 {
+  font-size: 17px;
+  top: 65%;
+  left: 15%;
+  width: 26%;
+}
+
+@media screen and (min-width: 1400px) {
+  .img1 {
+    width: 450px;
+    height: 450px;
+    left: 12%;
+  }
+  .img2 {
+    width: 250px;
+    height: 250px;
+    left: 39%;
+    top: 43%;
+  }
+  .img3 {
+    width: 330px;
+    height: 330px;
+    left: 50%;
+    top: 50%;
+  }
+  .text1 {
+    top: 23%;
+    font-size: 18px;
+    width: 27%;
+    left: 49%;
+  }
+  .text2 {
+    top: 70%;
+    font-size: 18px;
+    left: 10%;
+    width: 28%;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .img1 {
+    width: 370px;
+    height: 370px;
+    left: 7%;
+  }
+  .img2 {
+    width: 200px;
+    height: 200px;
+    left: 35%;
+  }
+  .img3 {
+    width: 310px;
+    height: 310px;
+  }
+  .text1 {
+    top: 18%;
+    font-size: 15px;
+    width: 30%;
+  }
+  .text2 {
+    top: 60%;
+    font-size: 15px;
+    left: 10%;
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .img1 {
+    width: 340px;
+    height: 340px;
+    left: 7%;
+    top: 12%;
+  }
+  .img2 {
+    width: 170px;
+    height: 170px;
+  }
+  .img3 {
+    width: 280px;
+    height: 280px;
+  }
+
+  .text1 {
+    top: 22%;
+  }
+  .text2 {
+    top: 57%;
+    left: 6%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .img1 {
+    width: 300px;
+    height: 300px;
+    left: 10%;
+    top: 15%;
+  }
+  .img2 {
+    width: 150px;
+    height: 150px;
+  }
+  .img3 {
+    width: 240px;
+    height: 240px;
+  }
+
+  .text1 {
+    font-size: 13px;
+    top: 25%;
+    left: 55%;
+  }
+  .text2 {
+    font-size: 13px;
+    top: 60%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .img1 {
+    left: 5%;
+    top: 15%;
+  }
+  .text2 {
+    top: 57%;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .dayCard {
+    height: 740px;
+  }
+
+  .img1 {
+    top: 10%;
+    left: 1%;
+  }
+  .img2 {
+    top: 42%;
+  }
+
+  .img3 {
+    left: 45%;
+    top: 55%;
+  }
+  .text1 {
+    left: 58%;
+    top: 18%;
+  }
+
+  .text2 {
+    left: 3%;
+    top: 60%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .dayCard {
+    height: 680px;
+  }
+
+  .img1 {
+    width: 250px;
+    height: 250px;
+  }
+
+  .img2 {
+    left: 30%;
+  }
+
+  .img3 {
+    width: 220px;
+    height: 220px;
+    left: 45%;
+    top: 55%;
+  }
+  .text1 {
+    left: 52%;
+    top: 17%;
+    width: 38%;
+  }
+
+  .text2 {
+    left: 3%;
+    top: 68%;
+    width: 35%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .dayCard {
+    height: 670px;
+  }
+
+  .img1 {
+    width: 250px;
+    height: 250px;
+    left: -10%;
+  }
+
+  .img2 {
+    width: 170px;
+    height: 170px;
+    left: 30%;
+    top: 40%;
+  }
+
+  .img3 {
+    width: 220px;
+    height: 220px;
+    left: 60%;
+    top: 62%;
+  }
+  .text1 {
+    left: 50%;
+    top: 13%;
+    width: 45%;
+  }
+
+  .text2 {
+    left: 5%;
+    top: 70%;
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .img1 {
+    left: -25%;
+    top: 8%;
+  }
+
+  .text1 {
+    font-size: 12px;
+    left: 50%;
+    top: 13%;
+    width: 45%;
+  }
+
+  .text2 {
+    font-size: 12px;
+    left: 5%;
+    top: 70%;
+    width: 50%;
+  }
+}

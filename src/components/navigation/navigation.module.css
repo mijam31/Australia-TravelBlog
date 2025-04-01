@@ -1,0 +1,121 @@
+nav {
+  width: 100vw;
+}
+
+.line {
+  background-color: white;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 105px;
+  width: 80%;
+  height: 1px;
+  z-index: 100;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 160px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  font-family: "Inter", serif;
+}
+
+.nav div {
+  padding: 17px;
+  background-color: white;
+  border-radius: 1000px;
+}
+
+.nav h1 {
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.nav ul {
+  display: flex;
+  gap: 4vw;
+  text-decoration: none;
+}
+
+.nav div a {
+  display: flex;
+  font-size: 48px;
+  text-decoration: none;
+  color: black;
+}
+
+.nav ul li a {
+  font-size: 24px;
+  text-decoration: none;
+  color: white;
+}
+
+.nav ul li {
+  list-style: none;
+}
+
+.menu button {
+  display: none;
+  color: white;
+  font-size: 30px;
+  background: none;
+  border: none;
+}
+
+.burgermenu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.navLinks {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.navLinks li {
+  margin: 20px 0;
+}
+
+.navLinks a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 800px) {
+  .menu button {
+    display: block;
+  }
+  .menu li {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .nav {
+    padding: 40px 100px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .nav {
+    padding: 40px 60px;
+  }
+}

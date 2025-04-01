@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "date": "30. december",
+    "day": "Dag 1",
+    "title": "Ankomst til Sydney",
+    "part1": "Efter næsten et døgns rejse landede vi i Sydney kl. 18:35. Luften var varm, og vi blev straks mødt af en ny verden, der summede af liv. Kristian ventede på os i lufthavnen, og efter at have samlet vores bagage kørte vi mod Hunters Hill, hvor vi skulle bo de første dage.",
+    "part2": "Undervejs i bilen så vi de oplyste gader og den imponerende by skyline. Trætheden begyndte dog at tage overhånd, og vi brugte resten af aftenen på at falde til ro, pakke ud og prøve at vænne os til tidsforskellen. Vi var udmattede, men spændte på de kommende dage.",
+    "image1": "src/assets/pictures/dag 0-7/landing_syd_1.jpg",
+    "image2": "src/assets/pictures/dag 0-7/abu_dhabi_1.jpg",
+    "image3": "src/assets/pictures/dag 0-7/hunters hill 1.JPG"
+  },
+  {
+    "id": 2,
+    "date": "31. december",
+    "day": "Dag 2",
+    "title": "Nytårsaften i Sydney",
+    "part1": "Vi vågnede op til vores første hele dag i Australien, stadig lidt præget af jetlag. Dagen startede stille og roligt med en afslappende gåtur, hvor vi for første gang stødte på nogle af Australiens vilde dyr. Kakaduer fløj over os, og det var en påmindelse om, at vi nu befandt os på den anden side af jorden.",
+    "part2": "Om aftenen gik vi mod Woolwich for at opleve det legendariske nytårsfyrværkeri over Sydney Harbour. Det var en magisk oplevelse, hvor hele himlen blev oplyst i alle farver. Et fantastisk syn, der markerede begyndelsen på et nyt år, og en aften vi sent vil glemme.",
+    "image1": "src/assets/pictures/dag 0-7/tappas_2.jpg",
+    "image3": "src/assets/pictures/dag 0-7/hygge_2.jpg",
+    "video1": "public/videos/fyverkeri_2.mp4"
+  },
+  {
+    "id": 3,
+    "date": "1. januar",
+    "day": "Dag 3",
+    "title": "Første dag i det nye år",
+    "part1": "Vi startede det nye år med en gåtur rundt i Hunters Hill, hvor vi tog den rolige atmosfære ind. Morgenen var frisk, og vi nød at opleve en ny side af Sydney væk fra storbyens travlhed.",
+    "part2": "Senere på dagen tog vi videre til Grace Hotel i centrum. Efter check-in gik vi en tur gennem byens pulserende gader og sluttede aftenen af på en hyggelig taco-restaurant – en perfekt start på det nye år.",
+    "image1": "src/assets/pictures/dag 0-7/bade_3.jpg",
+    "image2": "src/assets/pictures/dag 0-7/gåtur_3.jpg",
+    "image3": "src/assets/pictures/dag 0-7/taco_3.jpg"
+  },
+  {
+    "id": 4,
+    "date": "2. januar",
+    "day": "Dag 4",
+    "title": "Sightseeing i Sydney",
+    "part1": "Dagen stod på sightseeing, og vi startede i Hyde Park, en smuk grøn oase midt i byen. Herfra besøgte vi St. Mary’s Cathedral og nød den imponerende arkitektur.",
+    "part2": "Turen fortsatte videre til The Royal Botanic Gardens, hvor vi spadserede blandt eksotiske planter, inden vi afsluttede dagen ved det ikoniske Sydney Opera House. Vi rundede aftenen af med en dejlig middag på Roast Republic.",
+    "image1": "src/assets/pictures/dag 0-7/sct_mary_cahedral_4.jpg",
+    "image2": "src/assets/pictures/dag 0-7/botanic_garden_4.jpg",
+    "image3": "src/assets/pictures/dag 0-7/roast_4.jpg"
+  },
+  {
+    "id": 5,
+    "date": "3. januar",
+    "day": "Dag 5",
+    "title": "Manly Beach og solskoldning",
+    "part1": "Dagens plan var en tur til Manly Beach. Vi tog færgen fra Circular Quay og nød den smukke udsigt til byens skyline fra vandet. På Manly Beach tilbragte vi dagen med at bade, slappe af og spise is – ren ferieidyl.",
+    "part2": "Til aftensmad fandt vi vej til Dokki, en restaurant med lækker mad, men dagen bød også på en lille ulempe – en solid solskoldning! Solen i Australien er ingen joke.",
+    "image1": "src/assets/pictures/dag 0-7/manly_5.jpg",
+    "image2": "src/assets/pictures/dag 0-7/færge_5.jpg",
+    "image3": "src/assets/pictures/dag 0-7/dokki_5.jpg"
+  },
+  {
+    "id": 6,
+    "date": "4. januar",
+    "day": "Dag 6",
+    "title": "Køretur til Kiama",
+    "part1": "Vi tjekkede ud af Grace Hotel og satte kurs mod Kiama, hvor vi skulle bo på The Sebel. Køreturen var lang, men da vi endelig ankom, strakte vi benene med en lang gåtur i området. Aftensmaden blev en klassiker – pizza fra Domino’s.",
+    "part2": "Dagen sluttede med en sjov konkurrence mellem brødrene om, hvem der var bedst til et eller andet (hvilket vi alle selvfølgelig skulle overvære).",
+    "image1": "src/assets/pictures/dag 0-7/kiama_6.jpg",
+    "image2": "src/assets/pictures/dag 0-7/carride_6.jpg",
+    "image3": "src/assets/pictures/dag 0-7/congurennce_6.jpg"
+  },
+  {
+    "id": 7,
+    "date": "5. januar",
+    "day": "Dag 7",
+    "title": "Cave Beach og kænguruer",
+    "part1": "Vi tilbragte dagen på Cave Beach, en idyllisk strand omgivet af klipper og skov. Vandet var krystalklart, og vi var heldige at se delfiner svømme forbi.",
+    "part2": "På vej tilbage til Kiama så vi vilde kænguruer, hvilket gjorde dagen endnu mere speciel. Vi afsluttede med en tur i Booderee Botanic Gardens, hvor vi oplevede Australiens unikke plante- og dyreliv.",
+    "image1": "src/assets/pictures/dag 7-14/cave_beach_7.jpg",
+    "image2": "src/assets/pictures/dag 7-14/fugl_7.jpg",
+    "image3": "src/assets/pictures/dag 7-14/kangoroo_7.jpg"
+  },
+  {
+    "id": 8,
+    "date": "6. januar",
+    "day": "Dag 8",
+    "title": "Vandretur til Figure Eight Pools",
+    "part1": "Vi begav os ud på en udfordrende, men smuk vandretur gennem Royal National Park for at nå frem til Figure Eight Pools.",
+    "part2": "Efter en dag med eventyr og fantastiske naturscenerier vendte vi tilbage til Hunters Hill for at slappe af.",
+    "image1": "src/assets/pictures/dag 7-14/8_figure_8.jpg",
+    "image2": "src/assets/pictures/dag 7-14/gåtur figure 8.JPG",
+    "image3": "src/assets/pictures/dag 7-14/gåtur 8 figure 8.JPG"
+  },
+  {
+    "id": 9,
+    "date": "7. januar",
+    "day": "Dag 9",
+    "title": "Shoppingdag",
+    "part1": "Vi brugte dagen på at shoppe i Top Ryde Shopping Centre, hvor vi fandt souvenirs og gode tilbud.",
+    "part2": "Om aftenen tjekkede vi ind på Adina Hotel Chippendale og nød en afslappet aften efter en dag fyldt med indkøb.",
+    "image1": "src/assets/pictures/dag 7-14/bridge 9.JPG",
+    "image2": "src/assets/pictures/dag 7-14/gå10.jpg",
+    "image3": "src/assets/pictures/dag 7-14/liguan_9.jpg"
+  },
+  {
+    "id": 10,
+    "date": "8. januar",
+    "day": "Dag 10",
+    "title": "Afslapning og donuts",
+    "part1": "Dagen startede roligt med en gåtur i byen, hvor vi fandt et hyggeligt sted til frokost.",
+    "part2": "Om eftermiddagen besluttede vi os for at forkæle os selv med lækre donuts fra Krispy Kreme – en perfekt afslutning på en rolig dag.",
+    "image1": "src/assets/pictures/dag 7-14/tree_10.jpg",
+    "image3": "src/assets/pictures/dag 7-14/spider 10.JPG",
+    "video1": "public/videos/IMG_8019.mp4"
+  },
+  {
+    "id": 11,
+    "date": "9. januar",
+    "day": "Dag 11",
+    "title": "Blue Mountains eventyr",
+    "part1": "Denne dag tog vi på en dagstur til Blue Mountains for at gå en af de smukkeste trails i området – Grand Canyon Track. Stien førte os gennem frodig regnskov, stejle klippevægge og små vandfald, hvilket gjorde turen til en fantastisk naturoplevelse.",
+    "part2": "Efter en lang vandretur belønnede vi os selv med endnu en middag på Roast Republic – vi kunne simpelthen ikke få nok af stedet!",
+    "image1": "src/assets/pictures/dag 7-14/blue2_11.jpg",
+    "image2": "src/assets/pictures/Blue_11.jpg",
+    "image3": "src/assets/pictures/dag 7-14/Roast_11.jpg"
+  },
+  {
+    "id": 12,
+    "date": "10. januar",
+    "day": "Dag 12",
+    "title": "Farvel til Kristian",
+    "part1": "Denne dag var lidt vemodig, da vi skulle sige farvel til Kristian, som skulle flytte fra Hunters Hill til Brisbane.",
+    "part2": "Senere på dagen tjekkede vi ud af Adina Hotel Chippendale og tjekkede ind på Adina Hotel Coogee, hvor vi nu var tættere på stranden. Aftenen blev rundet af med en dejlig middag og en ny favoritdessert – is fra Yo-Chi!",
+    "image1": "src/assets/pictures/dag 7-14/is_12.jpg",
+
+    "image3": "src/assets/pictures/dag 7-14/gå_10.jpg",
+    "video1": "public/videos/bil_12.MP4"
+  },
+  {
+    "id": 13,
+    "date": "11. januar",
+    "day": "Dag 13",
+    "title": "Kystvandring fra Coogee til Bondi Beach",
+    "part1": "Vi tog en lang kystvandring fra Coogee til Bondi Beach og nød den smukke udsigt undervejs. Til frokost spiste vi mexicansk mad i Bondi, før vi begav os tilbage ad samme rute.",
+    "part2": " Til aftensmad hyggede vi hjemme, og senere tog Frederik og jeg en sidste tur til Yo-Chi for at nyde endnu en is, inden vi afsluttede dagen med et imponerende ildshow ved Coogee Beach.",
+    "image1": "src/assets/pictures/dag 7-14/kyst_13.jpg",
+
+    "image3": "src/assets/pictures/dag 7-14/bondi_13.jpg",
+    "video1": "public/videos/ildshow 13.mp4"
+  },
+  {
+    "id": 14,
+    "date": "12. januar",
+    "day": "Dag 14",
+    "title": "Sidste dag i Australien",
+    "part1": "Vores sidste dag i Australien begyndte med en rolig morgen, hvor vi pakkede vores ting og nød en sidste morgenmad i huset. Vi tog en sidste gåtur i de nærliggende områder og nød den afslappede stemning, før vi satte kurs mod lufthavnen. På vej dertil så vi en sjov robot-skulptur, som vi selvfølgelig måtte tage billeder af, da det var en sjov og mindeværdig oplevelse.",
+    "part2": "Inden vi forlod Australien, gik vi rundt i et shoppingområde og købte souvenirs til vores familie og venner derhjemme. Det var den perfekte måde at afslutte vores rejse på – at finde de sidste små gaver og nyde de sidste timer i dette fantastiske land. Afgang fra Australien var vemodig, men vi forlod landet med et væld af uforglemmelige minder og billeder. Vi fløj hjem kl. 15:50, og denne eventyrlige rejse blev et kapitel, vi altid vil huske.",
+    "image1": "src/assets/pictures/dag 7-14/fly_14.jpg",
+    "image2": "path/to/image2.jpg",
+    "video1": "public/videos/Andsigt_14.mp4",
+    "image3": "src/assets/pictures/dag 7-14/breakfask_14.jpg"
+  }
+]
